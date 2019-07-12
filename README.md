@@ -497,7 +497,7 @@ import { ImageBackground, TouchableOpacity } from "react-native";
 
 **E)** Refactor our `App` component's return to use the `ImageBackground`, `WeatherCard`, & `CitySelectionButtons` components. Pass them their appropriate props.
 
-![pwd](https://i.imgur.com/5B1sxHw.gif)
+![pwd](./intro.gif)
 
 #### We should now be able to see all the behavior we were planning on implementing, _amazing_
 
