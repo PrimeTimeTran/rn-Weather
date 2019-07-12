@@ -4,7 +4,7 @@
 
 Let's build a weather app 📱 using [React Native](https://facebook.github.io/react-native/) & [Expo](https://expo.io/). Our app will help users determine what to wear 🕶🌂🧥 in their city 🏙 and other cities around the world 🌎!
 
-![pwd](https://i.imgur.com/GiyHXC9.gif)
+![pwd](./intro.gif)
 
 ### Features 🎯🥇🏆
 
@@ -497,7 +497,7 @@ import { ImageBackground, TouchableOpacity } from "react-native";
 
 **E)** Refactor our `App` component's return to use the `ImageBackground`, `WeatherCard`, & `CitySelectionButtons` components. Pass them their appropriate props.
 
-![pwd](./intro.gif)
+![pwd](https://i.imgur.com/5B1sxHw.gif)
 
 #### We should now be able to see all the behavior we were planning on implementing, _amazing_
 
